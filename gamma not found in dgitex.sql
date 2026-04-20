@@ -9,3 +9,5 @@ WHERE t.dtx_table = 'TGL'
       AND tg.tgl_tie_cod = t.dtx_pk1
       AND tg.tgl_tie_cod = '0137'
   );
+
+-- puit excute update TGL dans le serveur 10.100
